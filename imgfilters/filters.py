@@ -61,7 +61,7 @@ def warhol_effect(image):
         (0, 255, 0),  # Green
         (0, 0, 255),  # Blue
         (0, 255, 255),  # Cyan
-        (255, 0, 255),  # Magenta
+        (234, 95, 155),  # Magenta
         (255, 192, 203),  # Pink
     ]
 
